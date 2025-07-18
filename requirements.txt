@@ -2,3 +2,5 @@ pandas
 fastmcp
 openpyxl
 asyncio
+google-genai
+python-dotenv
