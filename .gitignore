@@ -6,8 +6,11 @@ dist/
 wheels/
 *.egg-info
 
-# Virtual environments
+# environments
 .venv
+.env
+uv.lock
+.gitignore
 
 # Excel-Generated files
 ~$*.xlsx
